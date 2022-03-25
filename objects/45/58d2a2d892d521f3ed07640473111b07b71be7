@@ -1,0 +1,9 @@
+[object]
+	state = initial
+[map "73081840-df42-31ac-bc39-6a0a2c3910e5"]
+	object = d72d114bbc79ba5814a67b33887d9c6515a16fe8
+	type = include + expand tree
+[map "2972db97-5786-3341-a1c5-05ce7e8086e1"]
+	object = a74683fad984b754c19a06e75d959a280247e814
+	path = module
+	type = expand module
